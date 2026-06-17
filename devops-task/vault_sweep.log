@@ -1,0 +1,34 @@
+[2026-06-16 12:36:35] [INFO] Scan started
+[2026-06-16 12:36:35] [WARN] ./test_data/scripts/deploy.sh contains chmod 777
+[2026-06-16 12:36:35] [WARN] ./vault_sweep.sh contains chmod 777
+[2026-06-16 12:36:35] [INFO] Scan completed
+[2026-06-16 12:46:50] [INFO] Scan started
+[2026-06-16 12:46:50] [WARN] ./test_data/scripts/deploy.sh contains chmod 777
+[2026-06-16 12:46:50] [INFO] Scan completed
+[2026-06-16 13:15:17] [INFO] Scan started
+[2026-06-16 13:15:17] [WARN] ./test_data/scripts/deploy.sh contains chmod 777
+[2026-06-16 13:15:17] [INFO] Scan completed
+[2026-06-16 13:21:59] [INFO] Scan started
+[2026-06-16 13:21:59] [WARN] ./test_data/scripts/deploy.sh contains chmod 777
+[2026-06-16 13:21:59] [WARN] ./test_data/scripts/download.sh contains curl|sh or wget|sh
+[2026-06-16 13:21:59] [INFO] Scan completed
+[2026-06-16 13:58:43] [INFO] Scan started
+[2026-06-16 13:58:43] [WARN] ./test_data/scripts/deploy.sh contains chmod 777
+[2026-06-16 13:58:43] [INFO] Scan completed
+[2026-06-16 14:02:30] [INFO] Scan started
+[2026-06-16 14:05:19] [INFO] Scan started
+[2026-06-16 14:13:06] [INFO] Scan started
+[2026-06-16 14:13:06] [WARN] ./test_data/scripts/deploy.sh contains chmod 777
+[2026-06-16 14:13:06] [INFO] Scan completed
+[2026-06-16 14:34:27] [INFO] Scan started
+[2026-06-16 14:34:27] [WARN] ./test_data/scripts/deploy.sh contains chmod 777
+[2026-06-16 14:34:31] [FIX] Removed world write permission from ./test_data/scripts/deploy.sh
+[2026-06-16 14:34:31] [INFO] Scan completed
+[2026-06-16 14:43:24] [INFO] Scan started
+[2026-06-16 14:43:24] [WARN] ./test_data/scripts/deploy.sh contains chmod 777
+[2026-06-16 14:43:56] [FIX] Removed world write permission from ./test_data/scripts/deploy.sh
+[2026-06-16 14:43:56] [INFO] Scan completed
+[2026-06-16 14:50:06] [INFO] Scan started
+[2026-06-16 14:50:06] [WARN] ./test_data/scripts/downloads.sh contains curl|sh or wget|sh
+[2026-06-16 14:50:06] [WARN] ./test_data/scripts/deploy.sh contains chmod 777
+[2026-06-16 14:50:06] [INFO] Scan completed

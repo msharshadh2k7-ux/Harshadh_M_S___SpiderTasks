@@ -1,0 +1,55 @@
+/* Page background and text */
+body
+{
+    background-color:black;
+    color:white;
+    font-family:Arial;
+}
+
+/* Game title */
+h1
+{
+    color:maroon;
+    text-align:center;
+}
+
+/* Roll Dice button */
+#rollButton
+{
+    padding:10px;
+    font-size:18px;
+}
+
+/* Board layout (5x5 grid) */
+#board
+{
+    margin-top:20px;
+    margin-left:50px;
+    display:grid;
+    grid-template-columns:repeat(5,80px);
+    gap:5px;
+    justify-content:center;
+}
+
+/* Style for all cells */
+#board button
+{
+    width:80px;
+    height:80px;
+    font-size:25px;
+    border:1px solid white;
+    background-color:brown;
+    color:white;
+}
+
+/* Real world cell */
+.real
+{
+    background-color:green;
+}
+
+/* Upside Down cell */
+.upsideDown
+{
+    background-color:red;
+}
